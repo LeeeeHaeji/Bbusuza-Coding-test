@@ -11,7 +11,7 @@
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
-## Lv.3
+## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
 ## Lv.5
