@@ -6,10 +6,14 @@
 
 ## Lv.0
 - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
+- [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
+- [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)
+- [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)
 
 ## Lv.1
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
