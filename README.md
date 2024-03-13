@@ -17,7 +17,7 @@
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
-- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
