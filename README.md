@@ -10,12 +10,14 @@
 - [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)
 - [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)
 - [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)
+- [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)
 
 ## Lv.1
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
