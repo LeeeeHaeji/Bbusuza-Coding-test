@@ -67,6 +67,8 @@ function solution(survey, choices) {
     return answer
 }
 
+// answer에 +=를 해주지 않아서 틀렸습니다.
+
 function solution(survey, choices) {
     var answer = '';
     const obj = {
