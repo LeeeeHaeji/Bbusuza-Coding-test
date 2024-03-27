@@ -11,6 +11,7 @@
 - [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)
 - [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)
 - [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)
+- [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)
 
 ## Lv.1
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
@@ -18,6 +19,8 @@
 - [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
