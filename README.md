@@ -21,6 +21,8 @@
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+- [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+- [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
