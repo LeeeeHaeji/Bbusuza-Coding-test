@@ -23,6 +23,7 @@
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 - [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+- [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
