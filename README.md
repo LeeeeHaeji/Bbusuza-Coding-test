@@ -24,6 +24,9 @@
 - [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+- [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+- [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
