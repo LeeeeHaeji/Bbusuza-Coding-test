@@ -27,9 +27,11 @@
 - [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+- [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
+- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
