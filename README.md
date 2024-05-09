@@ -28,10 +28,13 @@
 - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
+- [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+- [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
