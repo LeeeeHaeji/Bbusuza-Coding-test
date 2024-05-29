@@ -30,11 +30,15 @@
 - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
 - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
