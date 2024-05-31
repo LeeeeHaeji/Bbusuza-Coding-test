@@ -12,6 +12,7 @@
 - [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)
 - [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)
 - [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)
+- [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 
 ## Lv.1
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
@@ -31,6 +32,7 @@
 - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
+- [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
@@ -39,6 +41,7 @@
 - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
