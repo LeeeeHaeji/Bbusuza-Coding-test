@@ -36,6 +36,8 @@
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
+- [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
@@ -48,6 +50,9 @@
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 - [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+- [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
