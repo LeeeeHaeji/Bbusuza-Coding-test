@@ -38,6 +38,8 @@
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
+- [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+- [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
