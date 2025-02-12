@@ -40,6 +40,9 @@
 - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
 - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
 - [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
+- [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+- [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
@@ -55,6 +58,8 @@
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
