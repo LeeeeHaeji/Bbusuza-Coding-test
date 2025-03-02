@@ -43,6 +43,8 @@
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 - [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
+- [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
   
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
