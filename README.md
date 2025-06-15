@@ -83,7 +83,7 @@
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
 ## Lv.3
-- [깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
