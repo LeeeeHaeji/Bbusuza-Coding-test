@@ -17,7 +17,7 @@
 ## Lv.1
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
-- [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
+- [1차 - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
@@ -43,9 +43,21 @@
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 - [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
-- [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
+- [PCCP 기출문제 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
-  
+- [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+- [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478)
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
+- [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840/)
+- [PCCP 기출문제 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
+- [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
+
 ## Lv.2
 - [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
@@ -62,6 +74,16 @@
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+- [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+- [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+- [1차 - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+- [탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+
+## Lv.3
+- [깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
 ## Lv.5
 - [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
